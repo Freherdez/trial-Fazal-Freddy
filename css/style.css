@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+  }
+  
+  #image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #title {
+    font-size: 4rem
+  }
+  
+  #subtitle {
+    font-size: 22px
+  }
+  
+  .bold {
+    text-decoration: bold;
+  }
